@@ -44,20 +44,13 @@ It was initially developed as part of my learning journey and then extended with
 ---
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](dashboard.png)
+Sales_Dashboard.png
 
 ---
 
 ## 📁 Project Files
-- `sales_dashboard.pbix` → Power BI dashboard  
-- `data.csv` → Dataset used for analysis (if available)  
-
----
-
-## 🚀 Next Steps
-- Build more advanced dashboards with complex datasets  
-- Integrate SQL and Python for data processing  
-- Develop end-to-end data projects (ETL pipelines)  
+- `Sales_Dashboard.pbix` → Power BI dashboard  
+- `orders.csv` and `customers.csv`  → Datasets used for analysis (if available)  
 
 ---
 
