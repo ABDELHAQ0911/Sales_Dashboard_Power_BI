@@ -44,7 +44,7 @@ It was initially developed as part of my learning journey and then extended with
 ---
 
 ## 📸 Dashboard Preview
-! [Sales_Dashboard_Power_BI] (Sales_Dashboard.png)
+[![Sales Dashboard](Sales_Dashboard.png)](Sales_Dashboard.png)
 
 ---
 
